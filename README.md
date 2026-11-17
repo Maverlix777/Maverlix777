@@ -12,6 +12,7 @@ Based in Washington, USA. Recent work: testing voice and agent-based AI, and bui
 
 ## Projects
 
+- [playwright-ts-e2e-sample](https://github.com/Maverlix777/playwright-ts-e2e-sample): Playwright and TypeScript sample with UI and API tests, page objects, tags and CI
 - [hub](https://github.com/Maverlix777/hub): a GitHub hub for agent task cards, handoffs and reports
 - JobForge: multi-agent system that automates job applications (private repo)
 - Location Fusion: tool for testers to check how apps handle geolocation (private repo)
